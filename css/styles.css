@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  padding-bottom: 5%
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  padding-top: 3%;
+  padding-left: 3%;
+}
+ul {
+  padding: 4%
+
+}
+ul li {
+  margin-bottom: 1%
+}
+
+p {
+  margin-right: 4%;
+  margin-left: 3%;
+  padding-bottom: 2%
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 8%;
+}
+img {
+  padding-left: 3%;
+  max-width: 20%;
+  height: auto;
+}
