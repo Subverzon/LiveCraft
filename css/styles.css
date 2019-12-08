@@ -4,6 +4,7 @@ h1 {
 }
 h2 {
   text-align: center;
+  color: grey;
 }
 h3 {
   padding-top: 3%;
@@ -42,4 +43,7 @@ img {
   padding-left: 3%;
   max-width: 20%;
   height: auto;
+}
+iframe {
+  margin-left: 3%;
 }
