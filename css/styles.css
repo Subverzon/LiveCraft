@@ -9,9 +9,18 @@ h3 {
   padding-top: 3%;
   padding-left: 3%;
 }
+h4 {
+  padding-left: 3%;
+}
 ul {
   padding: 4%
 
+}
+a {
+  padding-left: 3%;
+}
+form {
+  padding-left: 3%;
 }
 ul li {
   margin-bottom: 1%
